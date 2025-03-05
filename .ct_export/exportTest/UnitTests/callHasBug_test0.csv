@@ -1,5 +1,5 @@
 CT(Controller Tester) Test Data
-test name:testme2_test0,""
+test name:callHasBug_test0,""
 ,<input>,a,b,<expect>,returnVar,<output>,returnVar,<toutput>,returnVar
 1,"","-1","0",,"",,"-2",,""
 2,"","0","-1",,"",,"-3",,""

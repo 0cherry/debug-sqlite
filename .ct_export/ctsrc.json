@@ -5,14 +5,14 @@
     "linkFlag": "",
     "compileFlag": "",
     "toolchainName": "${TOOLCHAIN_NAME}",
-    "sourceTopDir": "D:\\git_repo\\CT-APR-Demo-SQLite-mini\\src\\",
+    "sourceTopDir": "D:\\git_repo\\GLaDOS\\demo\\CT-APR-Demo-SQLite-mini\\src\\",
     "src": [
       {
-        "path": "D:\\git_repo\\CT-APR-Demo-SQLite-mini\\src\\slice1.c",
+        "path": "D:\\git_repo\\GLaDOS\\demo\\CT-APR-Demo-SQLite-mini\\src\\injectBug.c",
         "compileFlag": ""
       },
       {
-        "path": "D:\\git_repo\\CT-APR-Demo-SQLite-mini\\src\\test.c",
+        "path": "D:\\git_repo\\GLaDOS\\demo\\CT-APR-Demo-SQLite-mini\\src\\sqlite3_partial.c",
         "compileFlag": ""
       }
     ]

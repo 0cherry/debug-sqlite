@@ -91,7 +91,7 @@
     },
     {
       "name": "UT_ISOLATE",
-      "integerValue": 1
+      "integerValue": 0
     },
     {
       "name": "UT_MAINTAIN_TESTCASE",
